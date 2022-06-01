@@ -1,3 +1,7 @@
+##原作者
+[wy580477/Cloudreve-slave-on-Heroku](https://github.com/wy580477/Cloudreve-slave-on-Heroku)
+
+
 ## 鸣谢
 
 - [FuaerCN/Cloudreve-Heroku](https://github.com/FuaerCN/Cloudreve-Heroku)
@@ -7,15 +11,12 @@
 
  1. **请勿滥用，账号封禁风险自负。**
  2. Heroku的文件系统是临时性的，每24小时强制重启一次后会恢复到部署时状态。不适合长期BT下载和共享文件用途。
- 3. Aria2配置文件默认限速5MB/s。
 
 ## 概述
 
   本项目用于在Heroku上部署Cloudreve从机节点，集成Aria2离线下载功能。
   
 ## 部署方式
-
- **请勿使用本仓库直接部署**  
 
   **Heroku修复安全漏洞中，目前无法通过网页从私有库部署**  
 
