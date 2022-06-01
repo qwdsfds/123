@@ -7,6 +7,10 @@
 - [FuaerCN/Cloudreve-Heroku](https://github.com/FuaerCN/Cloudreve-Heroku)
 - [P3TERX/aria2.conf](https://github.com/P3TERX/aria2.conf)  
 
+## a
+ 1. /data/downloads
+ 2. http://127.0.0.1:61800/
+
 ## 注意
 
  1. **请勿滥用，账号封禁风险自负。**
@@ -17,9 +21,6 @@
   本项目用于在Heroku上部署Cloudreve从机节点，集成Aria2离线下载功能。
   
 ## 部署方式
-
- 1.下载目录 /data/downloads
- 2.服务地址 http://127.0.0.1:61800
 
   **Heroku修复安全漏洞中，目前无法通过网页从私有库部署**  
 
