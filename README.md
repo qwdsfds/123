@@ -1,4 +1,4 @@
-##原作者
+## 原作者
 [wy580477/Cloudreve-slave-on-Heroku](https://github.com/wy580477/Cloudreve-slave-on-Heroku)
 
 
@@ -17,6 +17,9 @@
   本项目用于在Heroku上部署Cloudreve从机节点，集成Aria2离线下载功能。
   
 ## 部署方式
+
+下载目录 /data/downloads
+服务地址 http://127.0.0.1:61800
 
   **Heroku修复安全漏洞中，目前无法通过网页从私有库部署**  
 
